@@ -1,2 +1,2 @@
-# HISTORIABREVE
-Una locura
+# HISTORIA BREVE
+Una historia loca.
